@@ -1,0 +1,27 @@
+{
+  "code": "rnd",
+  "name": "Ростов-на-Дону",
+  "description": "База данных магазинов Ростов-на-Дону",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 47.222078,
+    "longitude": 39.720349
+  },
+  "bounds": {
+    "north": 47.522078,
+    "south": 46.922078000000006,
+    "west": 39.420349,
+    "east": 40.020348999999996
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1100000,
+    "area": 348,
+    "createdAt": "2026-01-09T14:08:06.406Z",
+    "version": "1.0.0"
+  }
+}

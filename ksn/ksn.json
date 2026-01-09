@@ -1,0 +1,27 @@
+{
+  "code": "ksn",
+  "name": "Красноярск",
+  "description": "База данных магазинов Красноярск",
+  "timezone": "Asia/Krasnoyarsk",
+  "center": {
+    "latitude": 56.015283,
+    "longitude": 92.893248
+  },
+  "bounds": {
+    "north": 56.315282999999994,
+    "south": 55.715283,
+    "west": 92.593248,
+    "east": 93.193248
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1100000,
+    "area": 379,
+    "createdAt": "2026-01-09T14:08:06.397Z",
+    "version": "1.0.0"
+  }
+}

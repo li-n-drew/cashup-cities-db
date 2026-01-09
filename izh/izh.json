@@ -1,0 +1,27 @@
+{
+  "code": "izh",
+  "name": "Ижевск",
+  "description": "База данных магазинов Ижевск",
+  "timezone": "Europe/Samara",
+  "center": {
+    "latitude": 56.849397,
+    "longitude": 53.206498
+  },
+  "bounds": {
+    "north": 57.149397,
+    "south": 56.549397000000006,
+    "west": 52.906498000000006,
+    "east": 53.506498
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 650000,
+    "area": 420,
+    "createdAt": "2026-01-09T14:08:06.395Z",
+    "version": "1.0.0"
+  }
+}

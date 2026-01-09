@@ -1,0 +1,27 @@
+{
+  "code": "kzn",
+  "name": "Казань",
+  "description": "База данных магазинов Казань",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 55.796391,
+    "longitude": 49.108891
+  },
+  "bounds": {
+    "north": 56.096391,
+    "south": 55.496391,
+    "west": 48.808891,
+    "east": 49.408891
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1250000,
+    "area": 425,
+    "createdAt": "2026-01-09T14:08:06.398Z",
+    "version": "1.0.0"
+  }
+}

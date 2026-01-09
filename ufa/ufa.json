@@ -1,0 +1,27 @@
+{
+  "code": "ufa",
+  "name": "Уфа",
+  "description": "База данных магазинов Уфа",
+  "timezone": "Asia/Yekaterinburg",
+  "center": {
+    "latitude": 54.735147,
+    "longitude": 55.958727
+  },
+  "bounds": {
+    "north": 55.035146999999995,
+    "south": 54.435147,
+    "west": 55.658727000000006,
+    "east": 56.258727
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1100000,
+    "area": 708,
+    "createdAt": "2026-01-09T14:08:06.412Z",
+    "version": "1.0.0"
+  }
+}

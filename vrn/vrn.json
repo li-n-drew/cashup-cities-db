@@ -1,0 +1,27 @@
+{
+  "code": "vrn",
+  "name": "Воронеж",
+  "description": "База данных магазинов Воронеж",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 51.660598,
+    "longitude": 39.200585
+  },
+  "bounds": {
+    "north": 51.960598,
+    "south": 51.360598,
+    "west": 38.900585,
+    "east": 39.500584999999994
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1000000,
+    "area": 596,
+    "createdAt": "2026-01-09T14:08:06.414Z",
+    "version": "1.0.0"
+  }
+}

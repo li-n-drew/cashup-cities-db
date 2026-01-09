@@ -1,0 +1,27 @@
+{
+  "code": "omsk",
+  "name": "Омск",
+  "description": "База данных магазинов Омск",
+  "timezone": "Asia/Omsk",
+  "center": {
+    "latitude": 54.98848,
+    "longitude": 73.324236
+  },
+  "bounds": {
+    "north": 55.28848,
+    "south": 54.688480000000006,
+    "west": 73.024236,
+    "east": 73.624236
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1100000,
+    "area": 572,
+    "createdAt": "2026-01-09T14:08:06.403Z",
+    "version": "1.0.0"
+  }
+}

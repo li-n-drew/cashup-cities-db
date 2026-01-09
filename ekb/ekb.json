@@ -1,0 +1,27 @@
+{
+  "code": "ekb",
+  "name": "Екатеринбург",
+  "description": "База данных магазинов Екатеринбург",
+  "timezone": "Asia/Yekaterinburg",
+  "center": {
+    "latitude": 56.838011,
+    "longitude": 60.597465
+  },
+  "bounds": {
+    "north": 57.138011,
+    "south": 56.538011000000004,
+    "west": 60.297465,
+    "east": 60.897465
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1500000,
+    "area": 495,
+    "createdAt": "2026-01-09T14:08:06.394Z",
+    "version": "1.0.0"
+  }
+}

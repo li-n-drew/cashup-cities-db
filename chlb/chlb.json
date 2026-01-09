@@ -1,0 +1,27 @@
+{
+  "code": "chlb",
+  "name": "Челябинск",
+  "description": "База данных магазинов Челябинск",
+  "timezone": "Asia/Yekaterinburg",
+  "center": {
+    "latitude": 55.164442,
+    "longitude": 61.436843
+  },
+  "bounds": {
+    "north": 55.464442,
+    "south": 54.864442000000004,
+    "west": 61.136843000000006,
+    "east": 61.736843
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1150000,
+    "area": 530,
+    "createdAt": "2026-01-09T14:08:06.393Z",
+    "version": "1.0.0"
+  }
+}

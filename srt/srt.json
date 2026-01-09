@@ -1,0 +1,27 @@
+{
+  "code": "srt",
+  "name": "Саратов",
+  "description": "База данных магазинов Саратов",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 51.533103,
+    "longitude": 46.034158
+  },
+  "bounds": {
+    "north": 51.833102999999994,
+    "south": 51.233103,
+    "west": 45.734158,
+    "east": 46.334157999999995
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 850000,
+    "area": 394,
+    "createdAt": "2026-01-09T14:08:06.410Z",
+    "version": "1.0.0"
+  }
+}

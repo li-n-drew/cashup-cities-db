@@ -1,0 +1,27 @@
+{
+  "code": "smr",
+  "name": "Самара",
+  "description": "База данных магазинов Самара",
+  "timezone": "Europe/Samara",
+  "center": {
+    "latitude": 53.195538,
+    "longitude": 50.101783
+  },
+  "bounds": {
+    "north": 53.495537999999996,
+    "south": 52.895538,
+    "west": 49.801783,
+    "east": 50.401782999999995
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1150000,
+    "area": 382,
+    "createdAt": "2026-01-09T14:08:06.407Z",
+    "version": "1.0.0"
+  }
+}

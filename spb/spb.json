@@ -1,0 +1,27 @@
+{
+  "code": "spb",
+  "name": "Санкт-Петербург",
+  "description": "База данных магазинов Санкт-Петербург",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 59.939095,
+    "longitude": 30.315868
+  },
+  "bounds": {
+    "north": 60.239095,
+    "south": 59.639095000000005,
+    "west": 30.015867999999998,
+    "east": 30.615868
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 5400000,
+    "area": 1439,
+    "createdAt": "2026-01-09T14:08:06.408Z",
+    "version": "1.0.0"
+  }
+}

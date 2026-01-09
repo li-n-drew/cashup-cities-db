@@ -1,0 +1,27 @@
+{
+  "code": "nsk",
+  "name": "Новосибирск",
+  "description": "База данных магазинов Новосибирск",
+  "timezone": "Asia/Novosibirsk",
+  "center": {
+    "latitude": 55.008352,
+    "longitude": 82.935732
+  },
+  "bounds": {
+    "north": 55.308352,
+    "south": 54.708352000000005,
+    "west": 82.635732,
+    "east": 83.235732
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1600000,
+    "area": 505,
+    "createdAt": "2026-01-09T14:08:06.402Z",
+    "version": "1.0.0"
+  }
+}

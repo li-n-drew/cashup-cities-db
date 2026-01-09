@@ -1,0 +1,27 @@
+{
+  "code": "tmn",
+  "name": "Тюмень",
+  "description": "База данных магазинов Тюмень",
+  "timezone": "Asia/Yekaterinburg",
+  "center": {
+    "latitude": 57.152985,
+    "longitude": 65.541227
+  },
+  "bounds": {
+    "north": 57.452985,
+    "south": 56.852985000000004,
+    "west": 65.24122700000001,
+    "east": 65.841227
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 850000,
+    "area": 235,
+    "createdAt": "2026-01-09T14:08:06.411Z",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "code": "prm",
+  "name": "Пермь",
+  "description": "База данных магазинов Пермь",
+  "timezone": "Asia/Yekaterinburg",
+  "center": {
+    "latitude": 58.010455,
+    "longitude": 56.229443
+  },
+  "bounds": {
+    "north": 58.310455,
+    "south": 57.710455,
+    "west": 55.929443000000006,
+    "east": 56.529443
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1000000,
+    "area": 800,
+    "createdAt": "2026-01-09T14:08:06.405Z",
+    "version": "1.0.0"
+  }
+}

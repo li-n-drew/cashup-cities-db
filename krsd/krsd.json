@@ -1,0 +1,27 @@
+{
+  "code": "krsd",
+  "name": "Краснодар",
+  "description": "База данных магазинов Краснодар",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 45.03547,
+    "longitude": 38.975313
+  },
+  "bounds": {
+    "north": 45.335469999999994,
+    "south": 44.73547,
+    "west": 38.675313,
+    "east": 39.275313
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 950000,
+    "area": 340,
+    "createdAt": "2026-01-09T14:08:06.396Z",
+    "version": "1.0.0"
+  }
+}

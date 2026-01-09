@@ -1,0 +1,27 @@
+{
+  "code": "msk",
+  "name": "Москва",
+  "description": "База данных магазинов Москва",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 55.755826,
+    "longitude": 37.6173
+  },
+  "bounds": {
+    "north": 56.055825999999996,
+    "south": 55.455826,
+    "west": 37.3173,
+    "east": 37.9173
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 12600000,
+    "area": 2561,
+    "createdAt": "2026-01-09T14:08:06.399Z",
+    "version": "1.0.0"
+  }
+}

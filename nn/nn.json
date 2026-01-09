@@ -1,0 +1,27 @@
+{
+  "code": "nn",
+  "name": "Нижний Новгород",
+  "description": "База данных магазинов Нижний Новгород",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 56.326887,
+    "longitude": 44.005986
+  },
+  "bounds": {
+    "north": 56.626886999999996,
+    "south": 56.026887,
+    "west": 43.705986,
+    "east": 44.305986
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1200000,
+    "area": 411,
+    "createdAt": "2026-01-09T14:08:06.401Z",
+    "version": "1.0.0"
+  }
+}

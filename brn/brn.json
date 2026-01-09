@@ -1,0 +1,27 @@
+{
+  "code": "brn",
+  "name": "Барнаул",
+  "description": "База данных магазинов Барнаул",
+  "timezone": "Asia/Barnaul",
+  "center": {
+    "latitude": 53.347996,
+    "longitude": 83.779808
+  },
+  "bounds": {
+    "north": 53.647996,
+    "south": 53.047996000000005,
+    "west": 83.479808,
+    "east": 84.079808
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 630000,
+    "area": 322,
+    "createdAt": "2026-01-09T14:08:06.391Z",
+    "version": "1.0.0"
+  }
+}

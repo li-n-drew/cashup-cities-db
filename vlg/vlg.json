@@ -1,0 +1,27 @@
+{
+  "code": "vlg",
+  "name": "Волгоград",
+  "description": "База данных магазинов Волгоград",
+  "timezone": "Europe/Volgograd",
+  "center": {
+    "latitude": 48.707067,
+    "longitude": 44.516975
+  },
+  "bounds": {
+    "north": 49.007067,
+    "south": 48.407067000000005,
+    "west": 44.216975000000005,
+    "east": 44.816975
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1000000,
+    "area": 565,
+    "createdAt": "2026-01-09T14:08:06.413Z",
+    "version": "1.0.0"
+  }
+}
