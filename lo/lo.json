@@ -1,0 +1,22 @@
+{
+  "code": "lo",
+  "name": "Ленинградская область",
+  "description": "База данных торговых точек: Ленинградская область",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 59.55059707863433,
+    "longitude": 30.771016477438295
+  },
+  "bounds": {
+    "north": 61.4996626,
+    "south": 58.000007,
+    "west": 27.6459261,
+    "east": 35.494222
+  },
+  "defaultRadius": 20000,
+  "metadata": {
+    "createdAt": "2026-09-13T21:21:49.370188",
+    "version": "1.0.0",
+    "locations_count": 9197
+  }
+}
