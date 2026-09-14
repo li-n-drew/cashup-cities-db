@@ -1,0 +1,27 @@
+{
+  "code": "urfo",
+  "name": "Уральский федеральный округ",
+  "description": "База данных магазинов Уральского федерального округа",
+  "timezone": "Asia/Yekaterinburg",
+  "center": {
+    "latitude": 60.0,
+    "longitude": 66.0
+  },
+  "bounds": {
+    "north": 71.5,
+    "south": 50.7,
+    "west": 58.8,
+    "east": 74.6
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 12000000,
+    "area": 1818000,
+    "createdAt": "2026-09-13T00:00:00.000Z",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "code": "szfo",
+  "name": "Северо-Западный федеральный округ",
+  "description": "База данных магазинов Северо-Западного федерального округа",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 61.0,
+    "longitude": 40.0
+  },
+  "bounds": {
+    "north": 71.5,
+    "south": 54.0,
+    "west": 27.0,
+    "east": 55.0
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 14000000,
+    "area": 1687000,
+    "createdAt": "2026-09-13T00:00:00.000Z",
+    "version": "1.0.0"
+  }
+}

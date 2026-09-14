@@ -1,0 +1,27 @@
+{
+  "code": "mo",
+  "name": "Московская область",
+  "description": "База данных магазинов Московской области",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 55.7,
+    "longitude": 37.9
+  },
+  "bounds": {
+    "north": 56.9,
+    "south": 54.3,
+    "west": 35.0,
+    "east": 40.3
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 8300000,
+    "area": 44300,
+    "createdAt": "2026-09-13T00:00:00.000Z",
+    "version": "1.0.0"
+  }
+}

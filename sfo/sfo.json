@@ -1,0 +1,27 @@
+{
+  "code": "sfo",
+  "name": "Сибирский федеральный округ",
+  "description": "База данных магазинов Сибирского федерального округа",
+  "timezone": "Asia/Krasnoyarsk",
+  "center": {
+    "latitude": 56.0,
+    "longitude": 87.0
+  },
+  "bounds": {
+    "north": 73.0,
+    "south": 50.0,
+    "west": 75.5,
+    "east": 113.5
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 17000000,
+    "area": 4361000,
+    "createdAt": "2026-09-13T00:00:00.000Z",
+    "version": "1.0.0"
+  }
+}

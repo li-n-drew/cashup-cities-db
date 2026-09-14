@@ -1,0 +1,27 @@
+{
+  "code": "lo",
+  "name": "Ленинградская область",
+  "description": "База данных магазинов Ленинградской области",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 59.7,
+    "longitude": 31.5
+  },
+  "bounds": {
+    "north": 61.0,
+    "south": 58.4,
+    "west": 27.0,
+    "east": 35.3
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 1900000,
+    "area": 83900,
+    "createdAt": "2026-09-13T00:00:00.000Z",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "code": "cfo",
+  "name": "Центральный федеральный округ",
+  "description": "База данных магазинов Центрального федерального округа",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 54.5,
+    "longitude": 38.2
+  },
+  "bounds": {
+    "north": 58.5,
+    "south": 49.0,
+    "west": 31.0,
+    "east": 47.0
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 41000000,
+    "area": 650000,
+    "createdAt": "2026-09-13T00:00:00.000Z",
+    "version": "1.0.0"
+  }
+}

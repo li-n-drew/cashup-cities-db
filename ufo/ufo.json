@@ -1,0 +1,27 @@
+{
+  "code": "ufo",
+  "name": "Южный федеральный округ",
+  "description": "База данных магазинов Южного федерального округа",
+  "timezone": "Europe/Moscow",
+  "center": {
+    "latitude": 45.5,
+    "longitude": 41.5
+  },
+  "bounds": {
+    "north": 51.0,
+    "south": 41.1,
+    "west": 36.5,
+    "east": 50.0
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 14000000,
+    "area": 441000,
+    "createdAt": "2026-09-13T00:00:00.000Z",
+    "version": "1.0.0"
+  }
+}

@@ -24,6 +24,30 @@
     }
   },
   {
+    "code": "cfo",
+    "name": "Центральный федеральный округ",
+    "description": "База данных магазинов Центрального федерального округа",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 54.5,
+      "longitude": 38.2
+    },
+    "bounds": {
+      "north": 58.5,
+      "south": 49,
+      "west": 31,
+      "east": 47
+    },
+    "defaultRadius": 5000,
+    "size": 30932,
+    "metadata": {
+      "population": 41000000,
+      "area": 650000,
+      "createdAt": "2026-09-13T00:00:00.000Z",
+      "version": "1.0.0"
+    }
+  },
+  {
     "code": "chlb",
     "name": "Челябинск",
     "description": "База данных магазинов Челябинск",
@@ -168,6 +192,54 @@
     }
   },
   {
+    "code": "lo",
+    "name": "Ленинградская область",
+    "description": "База данных магазинов Ленинградской области",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 59.7,
+      "longitude": 31.5
+    },
+    "bounds": {
+      "north": 61,
+      "south": 58.4,
+      "west": 27,
+      "east": 35.3
+    },
+    "defaultRadius": 5000,
+    "size": 2472,
+    "metadata": {
+      "population": 1900000,
+      "area": 83900,
+      "createdAt": "2026-09-13T00:00:00.000Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "mo",
+    "name": "Московская область",
+    "description": "База данных магазинов Московской области",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 55.7,
+      "longitude": 37.9
+    },
+    "bounds": {
+      "north": 56.9,
+      "south": 54.3,
+      "west": 35,
+      "east": 40.3
+    },
+    "defaultRadius": 5000,
+    "size": 10408,
+    "metadata": {
+      "population": 8300000,
+      "area": 44300,
+      "createdAt": "2026-09-13T00:00:00.000Z",
+      "version": "1.0.0"
+    }
+  },
+  {
     "code": "msk",
     "name": "Москва",
     "description": "База данных магазинов Москва",
@@ -264,6 +336,30 @@
     }
   },
   {
+    "code": "pfo",
+    "name": "Приволжский федеральный округ",
+    "description": "База данных магазинов Приволжского федерального округа",
+    "timezone": "Europe/Samara",
+    "center": {
+      "latitude": 54.3,
+      "longitude": 50.2
+    },
+    "bounds": {
+      "north": 60.4,
+      "south": 48.4,
+      "west": 42.1,
+      "east": 60.3
+    },
+    "defaultRadius": 5000,
+    "size": 20324,
+    "metadata": {
+      "population": 29000000,
+      "area": 1035000,
+      "createdAt": "2026-09-13T00:00:00.000Z",
+      "version": "1.0.0"
+    }
+  },
+  {
     "code": "prm",
     "name": "Пермь",
     "description": "База данных магазинов Пермь",
@@ -308,6 +404,54 @@
       "population": 1100000,
       "area": 348,
       "createdAt": "2026-01-09T14:08:06.406Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "sfo",
+    "name": "Сибирский федеральный округ",
+    "description": "База данных магазинов Сибирского федерального округа",
+    "timezone": "Asia/Krasnoyarsk",
+    "center": {
+      "latitude": 56,
+      "longitude": 87
+    },
+    "bounds": {
+      "north": 73,
+      "south": 50,
+      "west": 75.5,
+      "east": 113.5
+    },
+    "defaultRadius": 5000,
+    "size": 11948,
+    "metadata": {
+      "population": 17000000,
+      "area": 4361000,
+      "createdAt": "2026-09-13T00:00:00.000Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "skfo",
+    "name": "Северо-Кавказский федеральный округ",
+    "description": "База данных магазинов Северо-Кавказского федерального округа",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 43.5,
+      "longitude": 45
+    },
+    "bounds": {
+      "north": 46.7,
+      "south": 41.1,
+      "west": 36.5,
+      "east": 50
+    },
+    "defaultRadius": 5000,
+    "size": 5940,
+    "metadata": {
+      "population": 10000000,
+      "area": 170000,
+      "createdAt": "2026-09-13T00:00:00.000Z",
       "version": "1.0.0"
     }
   },
@@ -384,6 +528,30 @@
     }
   },
   {
+    "code": "szfo",
+    "name": "Северо-Западный федеральный округ",
+    "description": "База данных магазинов Северо-Западного федерального округа",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 61,
+      "longitude": 40
+    },
+    "bounds": {
+      "north": 71.5,
+      "south": 54,
+      "west": 27,
+      "east": 55
+    },
+    "defaultRadius": 5000,
+    "size": 46540,
+    "metadata": {
+      "population": 14000000,
+      "area": 1687000,
+      "createdAt": "2026-09-13T00:00:00.000Z",
+      "version": "1.0.0"
+    }
+  },
+  {
     "code": "tmn",
     "name": "Тюмень",
     "description": "База данных магазинов Тюмень",
@@ -428,6 +596,54 @@
       "population": 1100000,
       "area": 708,
       "createdAt": "2026-01-09T14:08:06.412Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "ufo",
+    "name": "Южный федеральный округ",
+    "description": "База данных магазинов Южного федерального округа",
+    "timezone": "Europe/Moscow",
+    "center": {
+      "latitude": 45.5,
+      "longitude": 41.5
+    },
+    "bounds": {
+      "north": 51,
+      "south": 41.1,
+      "west": 36.5,
+      "east": 50
+    },
+    "defaultRadius": 5000,
+    "size": 18096,
+    "metadata": {
+      "population": 14000000,
+      "area": 441000,
+      "createdAt": "2026-09-13T00:00:00.000Z",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "code": "urfo",
+    "name": "Уральский федеральный округ",
+    "description": "База данных магазинов Уральского федерального округа",
+    "timezone": "Asia/Yekaterinburg",
+    "center": {
+      "latitude": 60,
+      "longitude": 66
+    },
+    "bounds": {
+      "north": 71.5,
+      "south": 50.7,
+      "west": 58.8,
+      "east": 74.6
+    },
+    "defaultRadius": 5000,
+    "size": 12988,
+    "metadata": {
+      "population": 12000000,
+      "area": 1818000,
+      "createdAt": "2026-09-13T00:00:00.000Z",
       "version": "1.0.0"
     }
   },

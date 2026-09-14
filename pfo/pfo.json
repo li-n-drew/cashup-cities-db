@@ -1,0 +1,27 @@
+{
+  "code": "pfo",
+  "name": "Приволжский федеральный округ",
+  "description": "База данных магазинов Приволжского федерального округа",
+  "timezone": "Europe/Samara",
+  "center": {
+    "latitude": 54.3,
+    "longitude": 50.2
+  },
+  "bounds": {
+    "north": 60.4,
+    "south": 48.4,
+    "west": 42.1,
+    "east": 60.3
+  },
+  "defaultRadius": 5000,
+  "dataFiles": {
+    "networks": "company_networks.json",
+    "locations": "company_locations.json"
+  },
+  "metadata": {
+    "population": 29000000,
+    "area": 1035000,
+    "createdAt": "2026-09-13T00:00:00.000Z",
+    "version": "1.0.0"
+  }
+}
